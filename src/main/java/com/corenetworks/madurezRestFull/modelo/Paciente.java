@@ -19,4 +19,5 @@ public class Paciente {
     private String dni;
     @Column(length = 60,nullable = false)
     private String nombre;
+
 }
